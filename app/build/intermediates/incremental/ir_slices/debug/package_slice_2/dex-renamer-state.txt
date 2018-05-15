@@ -1,0 +1,4 @@
+#Mon May 14 18:37:11 PDT 2018
+base.0=C\:\\Users\\Stani\\Desktop\\class-materials\\android\\instructors\\more_ex_starts\\ch14_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
